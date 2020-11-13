@@ -1,0 +1,174 @@
+.bg
+{
+    background-color: #2d3092;
+    padding: 10px;
+}
+.co
+{
+	color: #86878a;
+}
+.color{
+    color:#CCCCCD;
+}
+ .navbar a
+{
+	color: #091a23;
+    font-weight: 700;
+    font-size: 16px;
+}
+body
+{
+	 font-family: "Josefin Sans",sans-serif;
+}
+.back
+{
+  background-color: #2d3092;	
+}
+.position
+{
+	position: relative;
+}
+.b5
+{
+	font-size: 47px;
+}
+.s2
+{
+	height: 50px;
+	width: 150px;
+	background: #2d3092;
+}
+.b6
+{
+	background-color: #bcdefe;
+	
+	font-family: "Sen",sans-serif;
+    color: #030431;
+}
+#a1
+{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.pp
+{
+	padding-left: 40px;
+	padding-bottom: 40px;
+	padding-top: 20px;
+
+}
+.container p
+{
+	color: #57667e;
+    font-size: 16px;
+    margin-right: 30px;
+
+}
+.container h4
+{
+	font-weight: 700;
+    margin-bottom: 21px;
+    color: #250051;
+    padding-right: 30px;
+}
+.container i
+{
+	color: #2d3092;
+    font-size: 55px;
+    margin-bottom: 24px;
+    margin-top: 24px;
+    margin-right: 30px;
+}
+.container a
+{
+	color: #5d6072;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.cp1
+{
+	font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 22px;
+    color: #3ba0ff
+
+}
+.cp2
+{
+	display: block;
+    color: #030431;
+    font-weight: 600;
+}
+.button {
+  background-color: #250051;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width:200px;
+}
+.ground
+{
+	background-color: #F6FBFF;
+	padding-bottom: 90px;
+    padding-top: 100px;
+
+}
+.b12
+{
+	padding-left: 200px;
+	padding-top: 100px;
+	padding-bottom: 90px;
+}
+a
+{
+	text-decoration: none;
+}
+.co
+{
+	color: #b2b2b2;
+    font-size: 14px;
+}
+.b13
+{
+	background-color: #2D3092;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.pt
+{
+	padding-top: 100px;
+	padding-bottom: 90px;
+
+}
+.b14
+{
+	background-color: #2D3092;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+footer
+{
+	background-color: #0B0B1D;
+	padding-top: 100px;
+	color: white;
+
+}
+.z1
+{
+  background-color: #2D3092; 
+  color: white;
+  border: none;
+
+}
+.w1
+{
+	width: 300px;
+}
